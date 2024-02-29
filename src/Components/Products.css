@@ -93,7 +93,7 @@ button:hover{
     flex-wrap: wrap;
 }
 /* Wreite a media query for scrren size of 420 px */
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 432px) {
     .inpt {
         gap: 2px;
     }
